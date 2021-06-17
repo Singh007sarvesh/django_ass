@@ -1,10 +1,15 @@
 # django_assignment
 
-1. Create a Python 3.7 virtualenv
+1. Create a Python 3.8 virtualenv
+
 2. Install dependencies:
+   
    Goto django_ass directory
+   
    Use Following Command: pip install -r requirements.txt
+
 3. Configure your database in settings.py file
+
 4. To Create tables, use given command:
    
    
@@ -15,13 +20,11 @@
 
 6. Run the server:
 
-
    python manage.py runserver
-7. api's and request data:
-   
+
+7. api's and request data:   
    
    Comment api: Method: HTTP POST
-   
    
    url: /api/v1/ass/assignment/comments/
    
